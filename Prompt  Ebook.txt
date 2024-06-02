@@ -1,0 +1,60 @@
+Prompt - Criação do Ebook 
+
+
+Prompt do Chat GPT
+
+Crie um título de um ebook sobre o tema UNREAL, o ebook é do nicho programação  e o subnicho é games, o título deve ser épico e curto e tenha uma temática mais nerd e tenha uma temática de star wars  no título, liste 5 variações de títulos      
+
+Resultado 
+
+Claro! Aqui estão cinco variações de títulos épicos e curtos para um ebook sobre Unreal no nicho de programação de games, com uma temática nerd inspirada em Star Wars:
+
+1. "Unreal: O Poder da Força na Criação de Games"
+2. "Jedi dos Games: Dominando Unreal"
+3. "A Ascensão de Unreal na Galáxia dos Jogos"
+4. "Unreal e a Nova Esperança dos Games"
+5. "O Império Unreal Contra-Ataca: Programação de Games"
+
+Após a geração dos 5 títulos, pedi para continuar e gerar mais variações do prompt .
+
+Resultado obtido.
+
+"Unreal: A Força Desperta na Programação de Jogos"
+"Cavaleiros de Unreal: Mestre a Arte dos Games"
+"A Saga Unreal: Do Aprendiz ao Mestre Jedi dos Jogos"
+"Unreal: O Caminho dos Sith na Criação de Games"
+"Unreal e a Ordem Jedi da Programação de Games"
+
+Depois pedi para o Chat GPT combinar os títulos 
+
+"Unreal: O Poder da Força na Criação de Games"                                            "Unreal: A Força Desperta na Programação de Jogos"       
+
+Resultado:
+
+Claro! Aqui estão algumas combinações poderosas dos títulos fornecidos:
+
+1. "Unreal: O Poder da Força Desperta na Criação de Jogos"
+2. "Unreal: A Força na Criação de Games Desperta"
+3. "Unreal: A Força Desperta na Criação de Games"
+4. "Unreal: O Poder da Força na Programação de Jogos"
+5. "Unreal: A Criação de Games com o Poder da Força Desperta"
+
+O Título do Ebook escolhido foi: Unreal: O Poder da Força Desperta na Criação de Jogos
+
+[Prompt para criar imagem usado no Microsoft Copilot]
+
+Unreal Engine Logo in Jedi Temple, pixel art style
+
+[Padronização do Ebook]
+Fonte Calibri 
+Titulo 32  
+Subtítulo 24
+Corpo do texto 18
+
+
+
+IAs usadas 
+
+- Snappify 
+- Microsoft Copilot
+- Chat GPT
